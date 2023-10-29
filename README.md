@@ -991,7 +991,7 @@ Get a list of all burned transactions.
   "State": "Success",
   "Type": "GetBurnValidations",
   "Nonce": 63804569790630801,
-  {
+  "Data": {
     "BurnValidations": [{
       "TXID": "0x123456789",
       "Cur": 1,
